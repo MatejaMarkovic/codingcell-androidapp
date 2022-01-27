@@ -20,9 +20,13 @@
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="401dp"
-        android:layout_height="192dp"
-        android:layout_marginTop="80dp"
+        android:layout_width="371dp"
+        android:layout_height="222dp"
+        android:layout_marginTop="56dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='Unutar zagrada stavljamo argumente zajedno sa njihovim tipovima, tako da kada pozivamo funkciju, na primjer u scanf-u, ti argumenti su oni koji će da preuzmu unijetu vrijednost. \n Deklariši 2 atributa tipa int imena a i b unutar int funkcije "Racunaj".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"

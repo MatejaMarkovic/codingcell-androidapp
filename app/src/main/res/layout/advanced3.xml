@@ -20,10 +20,14 @@
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="410dp"
-        android:layout_height="154dp"
-        android:layout_marginTop="100dp"
-        android:text='Kako bi smo napravili funkciju, definisaćemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefiniši funkciju tipa void i imena "Funkcija".'
+        android:layout_width="391dp"
+        android:layout_height="239dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
+        android:layout_marginTop="40dp"
+        android:text='char[5] = "abcd" \nStringovi u C jeziku za razliku od drugih jezika, se deklarisu sa tipom char, i funkcionisu kao niz. Ako zelimo da postavimo limit karaktera stringu, uvjek mu moramo dati jedno mjesto vise jer se svaki string zavrsava karakterom "/0"/n Deklarisi string "str" neodredjene duzine, u kojem ce pisati "Stringovi".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,12 +52,13 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="60dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Funkcije"
+        android:text="Stringovi"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

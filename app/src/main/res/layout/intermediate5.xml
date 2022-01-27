@@ -35,6 +35,10 @@
         android:layout_width="326dp"
         android:layout_height="250dp"
         android:layout_marginTop="50dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='switch (expression) ​\n{ \ncase constant1: \nprintf("block 1"); \nbreak; \ncase constant2: \nprintf("block 2"); \nbreak; \ndefault: \nprintf("if no case is satisfied"); \n}'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

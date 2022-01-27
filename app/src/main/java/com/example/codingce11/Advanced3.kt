@@ -17,7 +17,7 @@ class Advanced3 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.advanced3)
         val editText = findViewById<EditText>(R.id.unosa3)
-        val rez = "int Racunaj(int a, int b);"
+        val rez = "char[] = \"Stringovi\";"
         val submit_abutton3 = findViewById<View>(R.id.submit_abutton3)
         submit_abutton3.setOnClickListener {
             val text = editText.text.toString()

@@ -36,6 +36,10 @@
         android:layout_width="327dp"
         android:layout_height="85dp"
         android:layout_marginTop="100dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='calc=sqrt(9);\nprintf("%d",calc);\nFunkcija sqrt izračunava kvadratni korjen datog broja'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

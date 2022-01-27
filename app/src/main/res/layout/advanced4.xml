@@ -11,37 +11,30 @@
         android:id="@+id/next_abutton4"
         android:layout_width="150dp"
         android:layout_height="70dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="88dp"
         android:text="Next"
         app:cornerRadius="15dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/submit_abutton4" />
+        app:layout_constraintTop_toBottomOf="@+id/hello_world" />
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="410dp"
-        android:layout_height="154dp"
-        android:layout_marginTop="100dp"
-        android:text='Kako bi smo napravili funkciju, definisacemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefinisi funkciju tipa void i imena "Funkcija".'
+        android:layout_width="374dp"
+        android:layout_height="189dp"
+        android:layout_marginTop="124dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
+        android:text='Postoje jos neki pojmovi ne pomenuti u ovom kursu, ali ako njih zalite da neucite, mozete nastaviti vasu programersku avanturu sami, u ovoj aplikaciji ste naucili sve potrebno da zapocnete svoj put. Srecno u vasoj avanturi!'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
-
-    <EditText
-        android:id="@+id/unosa4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:ems="10"
-        android:inputType="textMultiLine"
-        android:minHeight="48dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/hello_world"
-        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textView5"
@@ -49,22 +42,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Funkcije"
+        android:text="Kraj!"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/submit_abutton4"
-        android:layout_width="150dp"
-        android:layout_height="70dp"
-        android:layout_marginTop="50dp"
-        android:text="Submit"
-        app:cornerRadius="15dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/unosa4" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

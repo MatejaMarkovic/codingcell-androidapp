@@ -36,6 +36,10 @@
         android:layout_width="330dp"
         android:layout_height="287dp"
         android:layout_marginTop="20dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='int x=2;\nswitch (x)​\n{ \ncase 1: \nprintf("AMAZING"); \nbreak; \ncase 2: \nprintf("WOW"); \nbreak; \ndefault: \nprintf("MEH..."); \n}'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

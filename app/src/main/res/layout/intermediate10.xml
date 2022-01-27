@@ -36,6 +36,10 @@
         android:layout_width="341dp"
         android:layout_height="115dp"
         android:layout_marginTop="148dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='int c[2][3] = {{1, 3, 0}, {-1, 5, 9}};\nprintf(c[1][0]);\nPrva uglasta zagrada se koristi za redni broj unutrasnjeg niza, a druga za redni broj index-a unutar istog unutrasnjeg niza.'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"

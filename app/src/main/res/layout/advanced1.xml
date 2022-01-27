@@ -23,6 +23,10 @@
         android:layout_width="410dp"
         android:layout_height="164dp"
         android:layout_marginTop="80dp"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"
         android:text='Kako bi smo napravili funkciju, definisaćemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefinisi funkciju tipa void i imena "Funkcija".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
