@@ -35,13 +35,13 @@
 
     <TextView
         android:id="@+id/textViewi7"
-        android:layout_width="345dp"
-        android:layout_height="92dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
-        android:autoSizeMaxTextSize="100sp"
-        android:autoSizeStepGranularity="2sp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="120dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='U C programiranju možete kreirati niz nizova. Ovi nizovi su poznati kao višedimenzionalni nizovi. Na primjer:\nfloat k[3][4];'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

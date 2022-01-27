@@ -33,13 +33,13 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="341dp"
-        android:layout_height="174dp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text="Naredba if/else je najvažnija u programiranju, ovako izgleda:\nif(k = 1){\n}\nelse if(k = 0){\n}\nelse{}"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"

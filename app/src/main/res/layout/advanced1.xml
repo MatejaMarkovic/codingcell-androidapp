@@ -20,19 +20,19 @@
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="410dp"
-        android:layout_height="164dp"
-        android:layout_marginTop="80dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='Kako bi smo napravili funkciju, definisaćemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefinisi funkciju tipa void i imena "Funkcija".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 

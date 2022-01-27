@@ -20,13 +20,13 @@
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="391dp"
-        android:layout_height="239dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
-        android:autoSizeMaxTextSize="100sp"
-        android:autoSizeStepGranularity="2sp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='char[5] = "abcd" \nStringovi u C jeziku za razliku od drugih jezika, se deklarisu sa tipom char, i funkcionisu kao niz. Ako zelimo da postavimo limit karaktera stringu, uvjek mu moramo dati jedno mjesto vise jer se svaki string zavrsava karakterom "/0"/n Deklarisi string "str" neodredjene duzine, u kojem ce pisati "Stringovi".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
@@ -38,12 +38,13 @@
         android:id="@+id/unosa3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:ems="10"
+        android:layout_marginTop="20dp"
         android:editTextColor="#f1f1f1"
+        android:ems="10"
         android:inputType="textMultiLine"
         android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/hello_world"
         tools:ignore="SpeakableTextPresentCheck" />
@@ -66,10 +67,11 @@
         android:id="@+id/submit_abutton3"
         android:layout_width="150dp"
         android:layout_height="70dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="20dp"
         android:text="Submit"
         app:cornerRadius="15dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/unosa3" />
 

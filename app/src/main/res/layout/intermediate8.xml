@@ -33,13 +33,13 @@
 
     <TextView
         android:id="@+id/textViewi8"
-        android:layout_width="333dp"
-        android:layout_height="95dp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="148dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='int array[5] = {19, 10, 8, 17, 9}\narray[2] = -1;\narray[4] = 0;\nprintf("%d and %d",array[2],array[4]);'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

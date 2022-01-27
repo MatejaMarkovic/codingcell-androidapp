@@ -32,13 +32,13 @@
 
     <TextView
         android:id="@+id/textView11"
-        android:layout_width="332dp"
-        android:layout_height="85dp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='power=pow(4,2);\nprintf("$d",power);\nFunkcija pow izračunava prvu vrijednost na stepen druge vrijednosti.'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

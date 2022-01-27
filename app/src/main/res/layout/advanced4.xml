@@ -21,13 +21,13 @@
 
     <TextView
         android:id="@+id/hello_world"
-        android:layout_width="374dp"
-        android:layout_height="189dp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="124dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
+        android:autoSizeTextType="uniform"
         android:text='Postoje jos neki pojmovi ne pomenuti u ovom kursu, ali ako njih zalite da neucite, mozete nastaviti vasu programersku avanturu sami, u ovoj aplikaciji ste naucili sve potrebno da zapocnete svoj put. Srecno u vasoj avanturi!'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
