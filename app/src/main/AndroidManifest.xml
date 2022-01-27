@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.codingce11">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:background="#151515"
+        android:theme="@style/Theme.CodingCe11">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HomeSelection"
+                  android:background="#151515" />
+        <activity android:name=".BeginnerPage"
+            android:background="#151515" />
+        <activity android:name=".Beginner1"
+            android:background="#151515"/>
+        <activity android:name=".Beginner2"
+            android:background="#151515"/>
+        <activity android:name=".Beginner3"
+            android:background="#151515"/>
+        <activity android:name=".Beginner4"
+            android:background="#151515"/>
+        <activity android:name=".Beginner5"
+            android:background="#151515"/>
+        <activity android:name=".Beginner6"
+            android:background="#151515"/>
+        <activity android:name=".Beginner7"
+            android:background="#151515"/>
+        <activity android:name=".Beginner8"
+            android:background="#151515"/>
+        <activity android:name=".Beginner9"
+            android:background="#151515"/>
+        <activity android:name=".Beginner10"
+            android:background="#151515"/>
+        <activity android:name=".IntermediatePage"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate1"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate2"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate3"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate4"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate5"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate6"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate7"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate8"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate9"
+            android:background="#151515"/>
+        <activity android:name=".Intermediate10"
+            android:background="#151515"/>
+        <activity android:name=".AdvancedPage"
+            android:background="#151515"/>
+        <activity android:name=".Advanced1"
+            android:background="#151515"/>
+        <activity android:name=".Advanced2"
+            android:background="#151515"/>
+        <activity android:name=".Advanced3"
+            android:background="#151515"/>
+        <activity android:name=".Advanced4"
+            android:background="#151515"/>
+    </application>
+
+</manifest>

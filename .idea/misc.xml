@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/drawable/logo_button_background.xml" value="0.236" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/drawable/roundcorner.xml" value="0.236" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/advanced1.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/advanced2.xml" value="0.264" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/advanced3.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/advanced4.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/advanced_page.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner1.xml" value="0.16" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner10.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner2.xml" value="0.1" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner3.xml" value="0.1" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner4.xml" value="0.128" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner5.xml" value="0.176" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner6.xml" value="0.128" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner7.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner8.xml" value="0.1" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner9.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/beginner_page.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/home_selection.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate1.xml" value="0.2" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate10.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate2.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate3.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate4.xml" value="0.264" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate5.xml" value="0.264" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate6.xml" value="0.264" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate7.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate8.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate9.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Korisnik/Desktop/CodingCe11/app/src/main/res/layout/intermediate_page.xml" value="0.2" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced1.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced10.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced5.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced6.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced7.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/advanced8.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner1.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner10.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner2.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner3.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner4.xml" value="0.5" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner5.xml" value="0.5" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner6.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner7.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner8.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner9.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/beginner_page.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/home_selection.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate1.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate2.xml" value="0.25" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate3.xml" value="0.33" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate4.xml" value="0.33" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate5.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate6.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate7.xml" value="0.559375" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/CodingCe11/app/src/main/res/layout/intermediate_page.xml" value="0.559375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
