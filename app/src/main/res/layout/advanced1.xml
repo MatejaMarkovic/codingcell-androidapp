@@ -27,7 +27,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='Kako bi smo napravili funkciju, definisaćemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefinisi funkciju tipa void i imena "Funkcija".'
+        android:text='Kako bismo napravili funkciju, definisaćemo tip, zatim dodati ime funkcije poslije kojeg se nalazi jedna otvorena i zatvorena zagrada. \nDefinisi funkciju tipa void i imena "Funkcija".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@color/white"

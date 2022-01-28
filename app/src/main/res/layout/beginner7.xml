@@ -40,7 +40,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text="While(i&#60;5){\ni++\n}\nOvo će ponavljati petlju sve dok\n je slučaj ispunjen. Do-while petlja radi blok koda\n najmanje jednom i ponavlja se ako je slučaj ispunjen posle."
+        android:text="While(i&#60;5){\ni++;\n}\nOvo će ponavljati petlju sve dok\n je slučaj ispunjen. Do-while petlja radi blok naredbi\n najmanje jednom i ponavlja se ako je slučaj ispunjen posle."
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

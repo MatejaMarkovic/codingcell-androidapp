@@ -39,7 +39,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
         android:autoSizeStepGranularity="2sp"
-        android:text="int x = 11;\nint y = 5;\nint z = x - y;\n\nPrint out: 11 minus 5 is 6"
+        android:text="int x = 11;\nint y = 5;\nint z = x - y;\n\nPrikaži: 11 minus 5 je 6"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

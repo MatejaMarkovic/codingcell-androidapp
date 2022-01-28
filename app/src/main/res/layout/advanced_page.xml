@@ -21,15 +21,16 @@
 
     <TextView
         android:id="@+id/textView19"
-        android:layout_width="359dp"
-        android:layout_height="73dp"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
-        android:autoSizeTextType="uniform"
-        android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
+        android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
-        android:text="Ovo je finalni dio kursa, nakon ovoga možete početi da pišete cijeli kod, čitate tudji kod sa razumjevanjem i konačno napravite vašu prvu aplikaciju u C-u!"
+        android:autoSizeTextType="uniform"
+        android:text="Ovo je finalni dio kursa, nakon ovoga možete početi da pišete cijeli kod, čitate tudji kod sa razumijevanjem i konačno napravite vašu prvu aplikaciju u C-u!"
         android:textAlignment="center"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

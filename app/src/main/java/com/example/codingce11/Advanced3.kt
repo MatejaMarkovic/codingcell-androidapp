@@ -17,7 +17,7 @@ class Advanced3 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.advanced3)
         val editText = findViewById<EditText>(R.id.unosa3)
-        val rez = "char[] = \"Stringovi\";"
+        val rez = "char str[] = \"Stringovi\";"
         val submit_abutton3 = findViewById<View>(R.id.submit_abutton3)
         submit_abutton3.setOnClickListener {
             val text = editText.text.toString()
@@ -25,6 +25,22 @@ class Advanced3 : AppCompatActivity() {
             val next_abutton3 = findViewById<View>(R.id.next_abutton3) as Button
             next_abutton3.setOnClickListener {
                 if (text == rez) {
+                    startActivity(
+                        Intent(
+                            this@Advanced3,
+                            Advanced4::class.java
+                        )
+                    )
+                }
+                else if (text == "char str[]=\"Stringovi\";") {
+                    startActivity(
+                        Intent(
+                            this@Advanced3,
+                            Advanced4::class.java
+                        )
+                    )
+                }
+                else if (text == "char str[]= \"Stringovi\";") {
                     startActivity(
                         Intent(
                             this@Advanced3,

@@ -76,6 +76,8 @@
             android:background="#151515"/>
         <activity android:name=".Advanced4"
             android:background="#151515"/>
+        <activity android:name=".learnmore"
+            android:background="#151515"/>
     </application>
 
 </manifest>

@@ -39,7 +39,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='switch (expression) ​\n{ \ncase constant1: \nprintf("block 1"); \nbreak; \ncase constant2: \nprintf("block 2"); \nbreak; \ndefault: \nprintf("if no case is satisfied"); \n}'
+        android:text='switch (izraz) ​\n{ \ncase izraz1: \nprintf("1"); \nbreak; \ncase izraz2: \nprintf("2"); \nbreak; \ndefault: \nprintf("ako ni jedan izraz nije zadovoljen"); \n}'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.494"

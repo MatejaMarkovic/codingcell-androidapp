@@ -16,7 +16,7 @@ class Beginner10 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.beginner10)
         val editText = findViewById<EditText>(R.id.unos10)
-        val rez = "true"
+        val rez = "tačno"
         val submit_button10 = findViewById<View>(R.id.submit_button10)
         submit_button10.setOnClickListener {
             val text = editText.text.toString()

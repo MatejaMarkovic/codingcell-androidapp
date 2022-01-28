@@ -16,7 +16,7 @@ class Beginner3 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.beginner3)
         val editText = findViewById<EditText>(R.id.unos3)
-        val rez = "5 plus 2 is 7"
+        val rez = "5 plus 2 je 7"
         val submit_button3 = findViewById<View>(R.id.submit_button3)
         submit_button3.setOnClickListener {
             val text = editText.text.toString()

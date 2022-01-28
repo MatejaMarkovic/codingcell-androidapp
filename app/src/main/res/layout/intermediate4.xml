@@ -40,7 +40,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='calc=sqrt(9);\nprintf("%d",calc);\nFunkcija sqrt izračunava kvadratni korjen datog broja'
+        android:text='int calc=sqrt(9);\nprintf("%d",calc);\nFunkcija sqrt izračunava kvadratni korjen datog broja'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

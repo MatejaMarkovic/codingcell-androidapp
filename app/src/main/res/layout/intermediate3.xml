@@ -39,7 +39,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='power=pow(4,2);\nprintf("$d",power);\nFunkcija pow izračunava prvu vrijednost na stepen druge vrijednosti.'
+        android:text='int power=pow(4,2);\nprintf("%d",power);\nFunkcija pow izračunava prvu vrijednost na stepen druge vrijednosti.'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

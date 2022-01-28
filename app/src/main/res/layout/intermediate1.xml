@@ -40,7 +40,8 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='Da biste unijeli korisnički unos u promjenljivu, koristite funkciju scanf. Prvo deklarišite promjenljivu, a zatim je pozovite u scanf-u ovako: \nint io;\nscanf("%d",&amp;io);'
+        android:text='Da biste unijeli korisnički unos u promjenljivu, koristite funkciju scanf. Prvo deklarišite promjenljivu, a zatim je pozovite u scanf-u ovako: \nint io;\nscanf("%d",&amp;io);\n%d je za cijele brojeve, za ostale tipove je drugačije'
+        android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -39,7 +39,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeMaxTextSize="100sp"
         android:autoSizeStepGranularity="2sp"
-        android:text='bool x = true;\nif(x == true){\nprintf("%B",x)\n}\nelse{\nprintf("false")\n}'
+        android:text='char x[] = "uslov";\nif(x == "uslov"){\nprintf("tačno");\n}\nelse{\nprintf("netačno");\n}'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

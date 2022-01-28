@@ -41,7 +41,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='Niz je promijenljiva koja može da uskladišti više vrijednosti. Na primjer, ako želite da sačuvate 100 celih brojeva, možete da kreirate niz za to.'
+        android:text='Niz je promijenljiva koja može da uskladišti više vrijednosti. Na primjer, ako želite da sačuvate 100 cijelih brojeva, možete da kreirate niz za to.'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.492"

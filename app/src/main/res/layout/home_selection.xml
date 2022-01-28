@@ -45,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="124dp"
-        android:text="Izaberi nivo svog znanja."
+        android:text="Izaberi nivo svog znanja:"
         android:textAlignment="center"
         android:textColor="#F1F1F1"
         android:textSize="34sp"

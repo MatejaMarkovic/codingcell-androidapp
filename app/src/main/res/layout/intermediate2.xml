@@ -39,7 +39,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='int n;\nscanf("%d",&amp;n); (inputs 23)\nprintf("Inputted number is: %d",n-3);'
+        android:text='int n;\nscanf("%d",&amp;n); (unosite broj 23)\nprintf("Unijeti broj je: %d",n-3);'
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

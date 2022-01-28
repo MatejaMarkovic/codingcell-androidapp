@@ -16,7 +16,7 @@ class Intermediate2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.intermediate2)
         val editText = findViewById<EditText>(R.id.unosa2)
-        val rez = "Inputted number is: 20"
+        val rez = "Unijeti broj je: 20"
         val submit_abutton2 = findViewById<View>(R.id.submit_ibutton2)
         submit_abutton2.setOnClickListener {
             val text = editText.text.toString()

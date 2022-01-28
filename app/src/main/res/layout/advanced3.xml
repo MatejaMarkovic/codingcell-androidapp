@@ -27,7 +27,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='char[5] = "abcd" \nStringovi u C jeziku za razliku od drugih jezika, se deklarisu sa tipom char, i funkcionisu kao niz. Ako zelimo da postavimo limit karaktera stringu, uvjek mu moramo dati jedno mjesto vise jer se svaki string zavrsava karakterom "/0"/n Deklarisi string "str" neodredjene duzine, u kojem ce pisati "Stringovi".'
+        android:text='char str[5] = "abcd" \nStringovi u C jeziku za razliku od drugih jezika, se definišu sa tipom char, i isčitavaju se slično kao članovi niza. Ako želimo da postavimo limit karaktera stringu, uvjek mu moramo dati jedno mjesto više jer se svaki string završava karakterom "/0"\n Deklariši string "str" neodredjene dužine, u kojem će pisati "Stringovi".'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"

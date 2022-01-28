@@ -40,7 +40,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text="Naredba if/else je najvažnija u programiranju, ovako izgleda:\nif(k = 1){\n}\nelse if(k = 0){\n}\nelse{}"
+        android:text="Naredba if/else je veoma važna u programiranju, ovako izgleda:\nif(k == 1){\n}\nelse if(k == 0){\n}\nelse{}"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"

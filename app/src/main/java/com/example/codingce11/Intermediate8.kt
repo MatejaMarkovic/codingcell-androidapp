@@ -16,7 +16,7 @@ class Intermediate8 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.intermediate8)
         val editText = findViewById<EditText>(R.id.unosa8)
-        val rez = "-1 and 0"
+        val rez = "-1 i 0"
         val submit_abutton8 = findViewById<View>(R.id.submit_ibutton8)
         submit_abutton8.setOnClickListener {
             val text = editText.text.toString()

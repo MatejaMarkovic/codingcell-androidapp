@@ -32,6 +32,14 @@ class Advanced2 : AppCompatActivity() {
                         )
                     )
                 }
+                else if (text == "int Racunaj(int a,int b);") {
+                    startActivity(
+                        Intent(
+                            this@Advanced2,
+                            Advanced3::class.java
+                        )
+                    )
+                }
                 else{
                     fun withCustomStyle() {
                         val positiveButtonClick = { dialog: DialogInterface, which: Int ->

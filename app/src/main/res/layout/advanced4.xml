@@ -28,7 +28,7 @@
         android:autoSizeMinTextSize="12sp"
         android:autoSizeStepGranularity="2sp"
         android:autoSizeTextType="uniform"
-        android:text='Postoje jos neki pojmovi ne pomenuti u ovom kursu, ali ako njih zalite da neucite, mozete nastaviti vasu programersku avanturu sami, u ovoj aplikaciji ste naucili sve potrebno da zapocnete svoj put. Srecno u vasoj avanturi!'
+        android:text='Postoje još neki pojmovi nepomenuti u ovom kursu, ali ako njih želite da naučite, možete nastaviti vašu programersku avanturu sami. U ovoj aplikaciji ste naučili sve potrebno da započnete svoj put. Srećno u vašoj avanturi!'
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"

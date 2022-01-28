@@ -23,7 +23,7 @@
         android:layout_width="337dp"
         android:layout_height="108dp"
         android:layout_marginTop="200dp"
-        android:text="Nakon što naučimo osnove, možemo preći na rješavanje celih blokova koda. Ovde možete trenirati svoje sposobnosti čitanja koda i pronaći izlaze datih djelova koda."
+        android:text="Nakon što naučimo osnove, možemo preći na rješavanje cijelih blokova koda. Ovdje možete trenirati svoje sposobnosti čitanja koda i pronaći izlaze datih djelova koda."
         android:textAlignment="center"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/start_button1"

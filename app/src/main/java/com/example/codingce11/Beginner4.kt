@@ -16,7 +16,7 @@ class Beginner4 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.beginner4)
         val editText = findViewById<EditText>(R.id.unos4)
-        val rez = "printf(\"%d minus %d is %d\",x,y,z);"
+        val rez = "printf(\"%d minus %d je %d\",x,y,z);"
         val submit_button4 = findViewById<View>(R.id.submit_button4)
         submit_button4.setOnClickListener {
             val text = editText.text.toString()
